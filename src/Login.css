@@ -1,0 +1,18 @@
+.login {
+  display: grid;
+  place-items: center;
+  height: 100vh;
+  background-color: black;
+}
+.spotifyLogo {
+  width: 100%;
+}
+.loginButton {
+  cursor: pointer;
+  padding: 16px;
+  border-radius: 100px;
+  background-color: #1db954;
+  color: white;
+  text-decoration: none;
+  font-weight: 800;
+}
